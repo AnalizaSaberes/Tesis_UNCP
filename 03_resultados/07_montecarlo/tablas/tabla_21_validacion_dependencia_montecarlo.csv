@@ -1,0 +1,4 @@
+"cluster","copula","tau_observado","tau_modelo","tau_simulado","diferencia_sim_modelo"
+1,"Gaussian",0.7459,0.7183,0.7167,-0.0016
+2,"Gumbel",0.7547,0.7107,0.7045,-0.0062
+3,"Gumbel",0.7813,0.737,0.7306,-0.0064

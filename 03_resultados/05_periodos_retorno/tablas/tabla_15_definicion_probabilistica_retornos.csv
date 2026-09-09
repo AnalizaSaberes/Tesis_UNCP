@@ -1,0 +1,3 @@
+"criterio","condicion","probabilidad","interpretacion"
+"AND","D > d ∩ S > s","1 - u - v + C(u,v)","Ambos umbrales son excedidos simultáneamente"
+"OR","D > d ∪ S > s","1 - C(u,v)","Al menos uno de los dos umbrales es excedido"

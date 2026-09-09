@@ -1,0 +1,3 @@
+"expresion","formula","interpretacion"
+"P(D > d | S > s)","[1-u-v+C(u,v)] / (1-v)","Probabilidad de que la duración exceda d dado que la severidad ya excedió s"
+"P(S > s | D > d)","[1-u-v+C(u,v)] / (1-u)","Probabilidad de que la severidad exceda s dado que la duración ya excedió d"

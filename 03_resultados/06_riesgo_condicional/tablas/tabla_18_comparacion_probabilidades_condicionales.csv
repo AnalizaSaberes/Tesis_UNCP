@@ -1,0 +1,4 @@
+"cluster","d","s","P(D > d | S > s)","P(S > s | D > d)","diferencia","mayor_probabilidad_condicional"
+1,12,12.9034894308714,0.714159489077263,0.685370260345794,-0.0287892287314693,"Duración condicionada por severidad"
+2,17.9,17.8835451285592,0.740541007407922,0.835460534543401,0.0949195271354795,"Severidad condicionada por duración"
+3,28,34.8861310466579,0.938405949855826,0.608825627523129,-0.329580322332697,"Duración condicionada por severidad"

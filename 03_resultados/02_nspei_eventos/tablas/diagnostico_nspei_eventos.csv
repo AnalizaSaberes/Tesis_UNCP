@@ -1,0 +1,26 @@
+indicador,valor
+archivo_base,Base_Datos_Final_ETo_Pivot.csv
+md5_base,7235b7dc7b685f99cfb62ede8d744cf5
+archivo_cluster,estaciones_clusters.csv
+md5_cluster,abe58ea1facc664a8be86c3a91c1b085
+n_registros,18144
+n_estaciones,28
+fecha_inicio,1970-01-01
+fecha_fin,2023-12-01
+metodo_balance,P - ETo
+acumulaciones_meses,3 / 6 / 12
+estandarizacion,No paramétrica
+posicion_probabilidad,(r - 0.44) / (n + 0.12)
+agrupacion_estandarizacion,Estación + mes calendario
+umbral_inicio_racha,nSPEI < 0
+umbral_retencion_evento,min(nSPEI) <= -1
+definicion_severidad,-sum(nSPEI) sobre toda la racha negativa
+eventos_nspei3,797
+eventos_nspei6,507
+eventos_nspei12,252
+tamano_cluster_1,18
+tamano_cluster_2,6
+tamano_cluster_3,4
+altitud_pucara,3877
+suficiencia_nspei3_n_ge_20,24
+suficiencia_nspei3_porcentaje,85.7143
