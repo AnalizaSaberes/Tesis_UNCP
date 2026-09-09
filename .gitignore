@@ -29,4 +29,5 @@ auditoria_*.csv
 rutas_*.csv
 
 # Datos originales pendientes de evaluación para publicación
-01_datos/raw/
+01_datos/raw/*
+!01_datos/raw/Base_Datos_Final_ETo_Pivot.csv
