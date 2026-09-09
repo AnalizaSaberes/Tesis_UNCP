@@ -1,0 +1,17 @@
+﻿cff-version: 1.2.0
+message: "Si utiliza este repositorio, cite el trabajo mediante la referencia indicada."
+title: "Predicción de sequías mediante modelos de cópulas y datos hidrometeorológicos en la Región Sur del Perú, 2024"
+type: software
+authors:
+  - family-names: "Arriaga Gómez"
+    given-names: "Virgilio"
+repository-code: "https://github.com/AnalizaSaberes/Tesis_UNCP"
+abstract: "Repositorio reproducible asociado a una investigación sobre predicción probabilística de sequías mediante nSPEI, distribuciones marginales, modelos de cópulas, periodos de retorno, riesgo condicional y simulación Monte Carlo."
+keywords:
+  - sequía
+  - nSPEI
+  - cópulas
+  - hidrometeorología
+  - periodos de retorno
+  - Monte Carlo
+  - reproducibilidad
