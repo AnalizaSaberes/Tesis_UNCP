@@ -1,0 +1,32 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales
+*.tmp
+*.temp
+*.bak
+~$*
+*.log
+
+# Auditorías locales
+auditoria_*.csv
+rutas_*.csv
+
+# Datos originales pendientes de evaluación para publicación
+01_datos/raw/
